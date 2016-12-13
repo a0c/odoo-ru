@@ -2,7 +2,7 @@
 ##############################################################################
 #
 #    OpenERP, Open Source Management Solution
-#    Copyright (C) 2013-2015 CodUP (<http://codup.com>).
+#    Copyright (C) 2013-2016 CodUP (<http://codup.com>).
 #
 #    This program is free software: you can redistribute it and/or modify
 #    it under the terms of the GNU Affero General Public License as
@@ -21,7 +21,7 @@
 
 {
     'name': 'Russia - Accounting',
-    'version': '2.0',
+    'version': '3.0',
     'summary': 'План счетов РФ',
     'category': 'Localization/Account Charts',
     'description': """
@@ -33,7 +33,6 @@ This is the base module to manage the accounting chart for Russia in OpenERP.
     """,
     'author': 'CodUP',
     'website': 'http://codup.com',
-    'images': ['static/description/account.png'],
     'depends': ['account'],
     'demo': [],
     'data': [
