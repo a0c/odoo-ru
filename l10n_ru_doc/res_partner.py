@@ -27,7 +27,7 @@ class res_partner(osv.osv):
 
     _columns = {
         'inn': fields.char('INN', size=12),
-        'kpp': fields.char('KPP', size=9),
+        # 'kpp': fields.char('KPP', size=9),
         'okpo': fields.char('OKPO', size=14),
     }
 

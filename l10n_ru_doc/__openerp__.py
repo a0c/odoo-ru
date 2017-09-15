@@ -46,7 +46,7 @@ The module for print documents in accordance laws of Russia.
         'res_company_view.xml',
         'res_users_view.xml',
         'res_bank_view.xml',
-        'l10n_ru_doc_data.xml',
+        # 'l10n_ru_doc_data.xml',
         'report/l10n_ru_doc_report.xml',
         'edi/bill_action_data.xml',
     ],
